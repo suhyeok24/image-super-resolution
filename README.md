@@ -4,6 +4,13 @@
 
 <br/><br/>
 
+## Team
+
+**Name** : 맑은 눈의 광인
+**Members** : KUBIG 15기 염윤석, 장수혁, 최민경 / 16기 박민규
+
+<br/><br/>
+
 ## Project Descriptions
 
 **Link** : [AI 양재 허브 인공지능 오픈소스 경진대회 (DACON)](https://dacon.io/competitions/official/235977/overview/description)
